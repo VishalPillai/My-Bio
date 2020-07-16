@@ -1,0 +1,205 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#welcome {
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(blueviolet 0%, #BA68C8 100%);
+    display: table;
+    margin-top: 30px;
+    opacity: 0.9;
+    z-index: 8;
+}
+
+h1 {
+    font-family: 'Bellota', cursive;
+    font-size: 35px;
+    font-size: 55px;
+    font-weight: 300px;
+    line-height: 1.2;
+}
+
+h2 {
+    font-family: 'Bellota', cursive;
+    font-size: 34px;
+    font-weight: 300px;
+    line-height: 1.2;
+}
+
+.name {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#photo1 {
+    width: 300px;
+    border-radius: 50px;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+h3 {
+    font-size: 30px;
+   font-family: 'Bellota', cursive;
+}
+
+#photo2 {
+    width: 300px;
+    border-radius: 50px;
+    margin-top: 20px
+}
+
+#bio {
+    background: linear-gradient(to right, paleturquoise, lavenderblush);
+    padding: 50px;
+}
+
+#App {
+    background: linear-gradient(to right, floralwhite 0%, paleturquoise 100%);
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.headingApps {
+    font-size: 35px;
+    font-family: 'Bellota', cursive;
+}
+
+h4 {
+    font-size: 40px;
+    font-family: 'Bellota', cursive;
+}
+
+.menu {
+    position: fixed;
+    top: 0px;
+    list-style: none;
+    cursor: pointer;
+    z-index: 10;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 30px;
+    background-color: white;
+    width: 100%;
+}
+
+.links {
+    font-size: 20px;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Monoton', cursive;
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: darkturquoise;
+}
+
+#Apps {
+    font-size: 25px;
+    font-family: 'Permanent Marker',
+        cursive;
+    padding: 50px;
+    word-wrap: break-word;
+}
+
+.headinggames {
+    font-size: 35px;
+    font-family: 'Bellota', cursive;
+}
+
+h5 {
+    font-size: 35px;
+   font-family: 'Bellota', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#App {
+    background: linear-gradient(to left, paleturquoise 50%, blueviolet 100%);
+}
+
+#art {
+    background: linear-gradient(darkturquoise 0%, paleturquoise 50%)
+}
+
+#contact {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contacts {
+    background-color: firebrick;
+}
+
+.contacts h3 {
+    display: inline;
+}
+
+.contacts a {
+    color: white;
+    text-shadow: none;
+}
+
+#myCarousel {
+    background-color: paleturquoise;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+h8 {
+    margin:500px;
+    font-size: 30px;
+    font-family: 'Monoton', cursive;
+}
+
+#rolemodel img {
+    width: 800px;
+    height:450px;
+}
+h9{
+    font-size:30px;
+    font-family: 'Monoton', cursive;
+        
+}
+Rolemodels iframe{
+ margin:200px
+}
